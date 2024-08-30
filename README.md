@@ -65,9 +65,6 @@ The notebook processes the files and saves them with UTF-8 encoding. Example out
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any questions or feedback, contact [alliaagamall@gmail.com],
 [Kaggle Profile](https://www.kaggle.com/aliaagamal)
