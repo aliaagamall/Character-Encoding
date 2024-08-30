@@ -69,4 +69,5 @@ Feel free to contribute by opening issues or submitting pull requests.
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, contact [alliaagamall@gmail.com].
+For any questions or feedback, contact [alliaagamall@gmail.com],
+[Kaggle Profile](https://www.kaggle.com/aliaagamal)
